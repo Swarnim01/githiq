@@ -10,3 +10,4 @@ this is the third line, new branch.
 this is the fourth line
 This is the sixth line.
  master
+o
